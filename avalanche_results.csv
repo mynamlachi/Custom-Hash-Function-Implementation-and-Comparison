@@ -1,0 +1,6 @@
+input_a,input_b,custom_a,custom_b,custom_hamming,sha256_hamming
+hello,Hello,fcde9ce1f87c65828dab6bb5c98a346d,27163a15f9311eb616c18a1377f1ef35,70,125
+password1,password2,13b50c440abd3110ee5b5c62a1633399,d1a1eb4613aeda794ce43300c68b1154,63,124
+This is a test.,This is a test!,5c21d241eabcb733456ba6cfcdaf818d,531c7e078b8d89fc31eec3826e745abd,66,133
+a,b,db7e0fbb16994c49b50f93db900664df,fec1548b2865722ede59bee4d0a7bd5b,68,126
+, ,33dbe05fbecc940e0882aa764b33f1fd,858d93af4b70ff7adc962af620170525,62,142
